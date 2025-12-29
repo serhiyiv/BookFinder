@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-pager-view": "^6.2.2"
+  }
+}
